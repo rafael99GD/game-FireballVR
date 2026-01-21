@@ -62,13 +62,13 @@ Tras completar el tutorial, el jugador accede a la **zona de juego**, una mini m
 Este proyecto ha sido desarrollado **íntegramente en grupo**.  
 A continuación se listan los miembros del equipo con enlace a sus perfiles de GitHub:
 
-- Marta – https://github.com/Marta21GH  
-- Sash – https://github.com/SashVqz  
-- Ignacio – https://github.com/Ygnacio04  
-- Harald – https://github.com/Kaaxerd  
-- Sofia – https://github.com/s-ol-jun  
-- Mikel – https://github.com/M112004  
-- Adrian – https://github.com/Adrigg2004  
+- [Marta](https://github.com/Marta21GH)  
+- [Sash](https://github.com/SashVqz)  
+- [Ignacio](https://github.com/Ygnacio04)  
+- [Harald](https://github.com/Kaaxerd)  
+- [Sofia](https://github.com/s-ol-jun)  
+- [Mikel](https://github.com/M112004)  
+- [Adrian](https://github.com/Adrigg2004)   
 
 ---
 
